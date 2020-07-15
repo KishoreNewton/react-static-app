@@ -2,7 +2,7 @@
   "name": "basics",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://kishorenewton.github.io/simple-react",
+  "homepage": ".",
   "dependencies": {
     "@testing-library/jest-dom": "^4.2.4",
     "@testing-library/react": "^9.3.2",
